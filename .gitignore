@@ -1,3 +1,6 @@
+# Directories to exclude
+build/
+.vscode/
 # Prerequisites
 *.d
 

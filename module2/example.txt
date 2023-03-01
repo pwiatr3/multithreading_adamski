@@ -1,0 +1,8 @@
+"Ala has a cat" 
+1 2 3 4 5
+"C++ modern course"
+9 8 7 6 5 4 3 2 1
+"Sth sth sth"
+2 4 6 8 10
+"Prime numbers"
+2 3 5 7 11 13 17
